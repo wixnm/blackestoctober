@@ -239,7 +239,14 @@ UDM = "countries/Udmurtia.txt"
 CHU = "countries/Chuvashia.txt"
 MEL = "countries/Mariel.txt"
 
+
 AGR = "countries/Algeria.txt"
+
+PRK = "countries/Serbian Krajina.txt"
+
+TNT = "countries/ComKorea.txt"
+
 SRK = "countries/Serbian Krajina.txt"
 SRP = "countries/Srpska.txt"
 WBS = "countries/West Bosnia.txt"
+CHB = "countries/Herzeg Bosnia.txt"

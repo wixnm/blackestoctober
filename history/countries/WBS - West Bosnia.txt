@@ -1,6 +1,8 @@
 ﻿capital = 837
-
+	
 set_research_slots = 3
+
+recruit_character = WBS_fikret_abdic
 
 # Starting tech
 # clone of Yugoslavia
