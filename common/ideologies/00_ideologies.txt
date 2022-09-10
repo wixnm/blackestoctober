@@ -708,7 +708,9 @@ ideologies = {
 	neutrality = {
 	
 		types = {
-		
+			despotism  = {
+			}
+			
 			oligarchism  = {
 			}
 
