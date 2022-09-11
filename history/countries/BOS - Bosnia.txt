@@ -1,9 +1,28 @@
-﻿capital = 837
-	
+﻿capital = 104
+
 set_research_slots = 3
 
-recruit_character = WBS_fikret_abdic
+#oob = "BOS_1993"
 
+recruit_character = BOS_alija_izetbegovic
+
+	declare_war_on = {
+		target = SRK
+		type = annex_everything
+	}
+	declare_war_on = {
+		target = SRP
+		type = annex_everything
+	}
+	declare_war_on = {
+		target = WBS
+		type = annex_everything
+	}
+	declare_war_on = {
+		target = CHB
+		type = annex_everything
+	}
+	
 # Starting tech
 # clone of Yugoslavia
 set_technology = {
