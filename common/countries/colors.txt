@@ -5,7 +5,6 @@ ART = {
 	color = rgb { 155  90  132}
 	color_ui = rgb { 155  90  132 }
 }
-<<<<<<< HEAD
 PRK = {
     color = rgb { 140 65 128 }
     color_ui = rgb { 140 65 128 }
@@ -20,8 +19,6 @@ CHB = {
     color = rgb { 244 102 102 }
     color_ui = rgb { 244 102 102 }
 }
-=======
->>>>>>> parent of 6be22df (Merge pull request #5 from skylus-sunoo/main)
 WBS = {
 	color = rgb { 204 138 0  }
 	color_ui = rgb { 204 138 0  }
@@ -40,7 +37,6 @@ AGR = {
 	color = rgb { 153 102 51 }
 	color_ui = rgb { 153 102 51 }
 }
-<<<<<<< HEAD
 
 
 
@@ -48,8 +44,6 @@ GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
 }
-=======
->>>>>>> parent of 6be22df (Merge pull request #5 from skylus-sunoo/main)
 ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
