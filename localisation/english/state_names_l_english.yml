@@ -842,9 +842,12 @@
  STATE_840:0 "Trieste"
  STATE_841:0 "Knin"
  STATE_842:0 "South Ossetia"
+<<<<<<< HEAD
  STATE_843:0 "Nakhchivan"
  STATE_844:0 "Nagorno-Karabakh"
 =======
  STATE_837:0 "West Bosnia"
  STATE_838:0 "Transnistria"
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of df2d707 (Caucasus Update)

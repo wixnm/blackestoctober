@@ -242,6 +242,7 @@ MEL = "countries/Mariel.txt"
 
 AGR = "countries/Algeria.txt"
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 ART = "countries/Artsakh.txt"
 PRK = "countries/ComKorea.txt"
@@ -249,6 +250,11 @@ PRK = "countries/ComKorea.txt"
 =======
 >>>>>>> Stashed changes
 TNT = "countries/Transnistria.txt"
+=======
+PRK = "countries/Serbian Krajina.txt"
+
+TNT = "countries/ComKorea.txt"
+>>>>>>> parent of df2d707 (Caucasus Update)
 
 SRK = "countries/Serbian Krajina.txt"
 SRP = "countries/Srpska.txt"

@@ -9892,11 +9892,15 @@
 9891;130;162;204;land;false;plains;1
 9892;130;165;64;land;false;plains;2
 9893;130;165;169;land;false;hills;7
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 9894;130;165;214;land;true;mountain;1
 =======
 9894;130;165;214;land;false;mountain;1
 >>>>>>> Stashed changes
+=======
+9894;130;165;214;land;false;mountain;1
+>>>>>>> parent of df2d707 (Caucasus Update)
 9895;130;168;29;land;true;hills;6
 9896;130;168;134;land;true;hills;1
 9897;130;171;94;land;false;hills;6
@@ -13255,9 +13259,13 @@
 13249;161;80;68;land;false;plains;1
 13250;122;251;173;land;false;plains;1
 13251;213;71;130;land;false;plains;1
+<<<<<<< HEAD
 13252;166;111;153;land;false;plains;1
 13253;232;35;241;land;false;mountain;7
 13254;46;38;21;land;false;mountain;7
 13255;159;81;72;land;false;mountain;7
 =======
 >>>>>>> Stashed changes
+=======
+13252;166;111;153;land;false;plains;1
+>>>>>>> parent of df2d707 (Caucasus Update)
