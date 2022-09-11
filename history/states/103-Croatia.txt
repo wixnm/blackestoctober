@@ -35,6 +35,9 @@ state={
 
 		}
 
+		SRK = {
+			set_province_controller = 3974
+		}
 	}
 
 	provinces={

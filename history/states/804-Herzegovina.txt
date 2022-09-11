@@ -18,9 +18,13 @@ state={
 		SRP = {
 			set_province_controller = 953
 			set_province_controller = 11845
+<<<<<<< Updated upstream
 			set_province_controller = 13250
 		}
 
+=======
+		}
+>>>>>>> Stashed changes
 	}
 
 	provinces={
