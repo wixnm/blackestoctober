@@ -1,0 +1,44 @@
+spriteTypes = {
+	
+	### FRA
+	
+	spriteType = {
+		name = "GFX_Portrait_FRA_Francois_Mitterrand"
+		texturefile = "gfx/leaders/FRA/Portrait_FRA_Francois_Mitterrand.dds"
+	}
+	
+	### GER
+	
+	spriteType = {
+		name = "GFX_Portrait_GER_Helmut_Kohl"
+		texturefile = "gfx/leaders/GER/Portrait_GER_Helmut_Kohl.dds"
+	}
+	
+	### JAP
+	
+	spriteType = {
+		name = "GFX_Portrait_JAP_Kiichi_Miyazawa"
+		texturefile = "gfx/leaders/JAP/Portrait_JAP_Kiichi_Miyazawa.dds"
+	}
+	
+	### PRC
+	
+	spriteType = {
+		name = "GFX_Portrait_PRC_Jiang_Zemin"
+		texturefile = "gfx/leaders/PRC/Portrait_PRC_Jiang_Zemin.dds"
+	}
+	
+	### SOV
+	
+	spriteType = {
+		name = "GFX_Portrait_SOV_Boris_Yeltsin"
+		texturefile = "gfx/leaders/SOV/Portrait_SOV_Boris_Yeltsin.dds"
+	}
+	
+	### USA
+	
+	spriteType = {
+		name = "GFX_Portrait_USA_Bill_Clinton"
+		texturefile = "gfx/leaders/USA/Portrait_USA_Bill_Clinton.dds"
+	}
+}
