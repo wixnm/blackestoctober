@@ -98,5 +98,15 @@ spriteTypes = {
 			name = "GFX_Portrait_CHB_Mate_Boban"
 			texturefile = "gfx/leaders/CHB/Portrait_CHB_Mate_Boban.dds"
 		}
+		
+		
+	####
+	####	CAUCASUS  
+	####
+
+		spriteType = {
+			name = "GFX_portrait_CIN_Dzhokar_Dudayev"
+			texturefile = "gfx/leaders/CIN/Portrait_CIN_Dzhokar_Dudayev.dds"
+		}	
 	
 }
