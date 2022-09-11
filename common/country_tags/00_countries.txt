@@ -239,16 +239,15 @@ UDM = "countries/Udmurtia.txt"
 CHU = "countries/Chuvashia.txt"
 MEL = "countries/Mariel.txt"
 
+
 AGR = "countries/Algeria.txt"
-<<<<<<< HEAD
 
 ART = "countries/Artsakh.txt"
 PRK = "countries/ComKorea.txt"
 
 TNT = "countries/Transnistria.txt"
 
-=======
->>>>>>> parent of 6be22df (Merge pull request #5 from skylus-sunoo/main)
 SRK = "countries/Serbian Krajina.txt"
 SRP = "countries/Srpska.txt"
 WBS = "countries/West Bosnia.txt"
+CHB = "countries/Herzeg Bosnia.txt"
