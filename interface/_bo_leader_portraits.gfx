@@ -100,6 +100,21 @@ spriteTypes = {
 		}
 		
 		
+		
+	####
+	#### Rest of Europe 
+	####
+	
+	
+	    spriteType = {
+			name = "GFX_portrait_IRE_Albert_Reynolds"
+			texturefile = "gfx/leaders/IRE/Portrait_IRE_Albert_Reynolds.dds"
+		}		
+		
+		
+		
+		
+		
 	####
 	####	CAUCASUS  
 	####
