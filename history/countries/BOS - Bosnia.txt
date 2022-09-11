@@ -1,4 +1,4 @@
-﻿capital = 104
+capital = 104
 
 set_research_slots = 3
 
@@ -6,7 +6,6 @@ set_research_slots = 3
 
 recruit_character = BOS_alija_izetbegovic
 
-<<<<<<< Updated upstream
 	declare_war_on = {
 		target = SRK
 		type = annex_everything
@@ -24,8 +23,6 @@ recruit_character = BOS_alija_izetbegovic
 		type = annex_everything
 	}
 	
-=======
->>>>>>> Stashed changes
 # Starting tech
 # clone of Yugoslavia
 set_technology = {
